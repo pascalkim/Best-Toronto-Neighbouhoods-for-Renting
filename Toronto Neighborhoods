@@ -4,8 +4,8 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# Segmenting and Clustering Neighborhoods in Toronto\n",
-    "This Notebook is for segmenting neighborhoods in toronto"
+    "# Toronto Neighborhoods\n",
+    "This Notebook is for retrieving postal codes for neighborhoods in toronto"
    ]
   },
   {
