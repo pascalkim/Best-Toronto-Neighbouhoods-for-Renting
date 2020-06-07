@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This repository is for a Capstone project for the Coursera Applied Data Science course
+# Best Toronto Neighbouhoods for Renting
+This repository is for a finding the best neighbourhoods in Toronto to rent aparments. The jupyter notebook contains the code used to develop insight in the datasets (Toronto neighbourhood data, Toronto crime data, Toronto store/services data extracted via Foursquare) and the PDF contains a summary report of the data. This project was developed as a Capstone project for the Coursera Applied Data Science course
